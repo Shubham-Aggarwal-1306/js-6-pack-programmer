@@ -105,10 +105,11 @@
 // }
 // while (i < 10);
 
-for (element of [1, 2, 3, 4, 5]) {
-    console.log(element);
-}
+// for (element of [1, 2, 3, 4, 5]) {
+//     console.log(element);
+// }
 
-for (element in [1, 2, 3, 4, 5]) {
-    console.log(element);
-}
+// for (element in [1, 2, 3, 4, 5]) {
+//     console.log(element);
+// }
+
